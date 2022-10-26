@@ -118,5 +118,3 @@ def is_valid():
     return jsonify(response), 200
 
 #running the app on flask server locally
-
-app.run(host='127.0.0.1', port=5000)
