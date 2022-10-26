@@ -117,4 +117,5 @@ def is_valid():
         response={'message': 'Houston, we have a problem. The Blockchain is not valid.'}
     return jsonify(response), 200
 
-#running the app on flask server locally
+
+
