@@ -1,3 +1,8 @@
+#code does not run on flash, needs corrections
+
+
+
+
 #timestamp
 
 import datetime
